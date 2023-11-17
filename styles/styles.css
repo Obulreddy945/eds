@@ -14,7 +14,7 @@
   /* colors */
   --link-color: #035fe6;
   --link-hover-color: #136ff6;
-  --background-color: #fff;
+  --background-color: green;
   --overlay-background-color: #eee;
   --highlight-background-color: #ccc;
   --text-color: #000;
@@ -247,5 +247,5 @@ main .section {
 
 /* section metadata */
 main .section.highlight {
-  background-color: red;
+  background-color: blue;
 }
